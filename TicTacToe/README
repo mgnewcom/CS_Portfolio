@@ -1,0 +1,2 @@
+project will simulate tic tac toe game by displaying a tic tac toe board as the output. the user will enter coordinates from 0-2 and
+the game ends when a player winds or the game ends in a tie.
