@@ -1,1 +1,3 @@
-
+Project reads files for names from 1880 to 2021 and outputs the frequency and first appearence of a selected name. The porgram will also
+display a distribution for which years the name was most popular. The program will also ask for a year and a nummber and then output the 
+top names for that year.
