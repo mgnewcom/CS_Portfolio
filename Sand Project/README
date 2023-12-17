@@ -1,0 +1,2 @@
+project simulates a sandbox and has 3 diffrent types of particles: Ground, Sand and Rain. The ground displays a surface for articles to be 
+placed. The Sand can be stacked and has similar moventnt to sand particles in real life. The rain can be used to fill up an area with water.
