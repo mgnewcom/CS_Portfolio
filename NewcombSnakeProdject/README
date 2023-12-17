@@ -1,0 +1,2 @@
+Project simulates the game snake where a snake will move arround the canvas and eat food to grow longer. The game ends when the player hits
+a wall or the body of the snake.
