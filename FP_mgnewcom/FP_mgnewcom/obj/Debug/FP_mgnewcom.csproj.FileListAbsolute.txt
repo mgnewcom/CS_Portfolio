@@ -1,0 +1,12 @@
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\bin\Debug\FP_mgnewcom.exe.config
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\bin\Debug\FP_mgnewcom.exe
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\bin\Debug\FP_mgnewcom.pdb
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.csproj.AssemblyReference.cache
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.Form1.resources
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.FRM_Game.resources
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.FRM_RLS.resources
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.Properties.Resources.resources
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.csproj.GenerateResource.cache
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.csproj.CoreCompileInputs.cache
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.exe
+C:\Users\mgnewcom\source\repos\FP_mgnewcom\FP_mgnewcom\obj\Debug\FP_mgnewcom.pdb
